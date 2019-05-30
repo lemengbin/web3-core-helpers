@@ -1,14 +1,14 @@
 {
     "name": "web3-core-helpers",
     "namespace": "ethereum",
-    "version": "1.0.0-beta.27",
+    "version": "1.0.0-beta.36",
     "description": "Web3 core tools helper for sub packages. This is an internal package.",
     "repository": "https://github.com/ethereum/web3.js/tree/master/packages/web3-core-helpers",
     "license": "LGPL-3.0",
     "main": "src/index.js",
     "dependencies": {
         "underscore": "1.8.3",
-        "web3-eth-iban": "git+https://github.com/lemengbin/web3-eth-iban.git#f0a4a221c77726436efe4dd6393afdbf1d17897a",
-        "web3-utils": "git+https://github.com/lemengbin/web3-utils.git#15af8ad8560558f87a444967bf91a4d49ae8f5a5"
+        "web3-eth-iban": "git+https://github.com/lemengbin/web3-eth-iban.git#e3d0011a2849db0763ed835521cca689d5771342",
+        "web3-utils": "git+https://github.com/lemengbin/web3-utils.git#1be49669c78f66354902717782d86a4d618e9de8"
     }
 }
