@@ -8,7 +8,7 @@
     "main": "src/index.js",
     "dependencies": {
         "underscore": "1.8.3",
-        "web3-eth-iban": "1.0.0-beta.27",
-        "web3-utils": "1.0.0-beta.27"
+        "web3-eth-iban": "git+https://github.com/lemengbin/web3-eth-iban.git#1.0.0-beta.27",
+        "web3-utils": "git+https://github.com/lemengbin/web3-utils.git#1.0.0-beta.27"
     }
 }
