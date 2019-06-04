@@ -27,7 +27,7 @@
 var _ = require('underscore');
 var utils = require('web3-utils');
 var Iban = require('web3-eth-iban');
-var base58 = require('web3-utils/eth-lib/lib/base58');
+var base58 = require('eth-lib/lib/base58');
 
 /**
  * Should the format output to a big number
